@@ -1,0 +1,48 @@
+_repo: A-falu-jegyzoje-2-kotet-Regeny_68645
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Schöpflin, Aladár
+    alias: Schopflin, Aladar
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '53082'
+    url: http://www.gutenberg.org/2009/agents/53082
+    wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+  illustrator:
+    agent_name: Tull, Ödön
+    alias: Tull, Odon
+    birthdate: 1870
+    deathdate: 1911
+    gutenberg_agent_id: '54775'
+    url: http://www.gutenberg.org/2009/agents/54775
+    wikipedia: https://hu.wikipedia.org/wiki/Tull_%C3%96d%C3%B6n
+creator:
+  author:
+    agent_name: Eötvös, József, báró
+    aliases:
+    - Eotvos, Jozsef, baro
+    - Götvös, Josef, Freiherr von
+    - Gotvos, Josef, Freiherr von
+    birthdate: 1813
+    deathdate: 1871
+    gutenberg_agent_id: '37252'
+    url: http://www.gutenberg.org/2009/agents/37252
+description: ''
+gutenberg_issued: '2022-07-30'
+identifiers:
+  gutenberg: '68645'
+language: hu
+pgterms:marc905: 20220720235149etvs
+pgterms:marc906: '1911'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin-Társulat,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A falu jegyzője (2. kötet): Regény'
+url: http://www.gutenberg.org/ebooks/68645
